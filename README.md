@@ -9,6 +9,7 @@ Insights found will then be used to plan a new campaign to seek funding for a ne
 
 Initially I reviewed the outcome of all campaigns for plays based on the launch date.
 ![Image 1](/Theater_Outcomes_vs_Launch.png)
+
 In review you can see that the total number of campaigns for plays begins a steady upward climp in April, reaches an apex in May and comes back down to April levels over the next two months.
 As such the optimal time time launch a campaign would is May or Jun.  Based on the data these two months offer over a 65% chance of a successful campaign.
 I strongly recommend that we do not consider any campaign start dates after July as the chance of failure increases with each passing month till the end of the year.
